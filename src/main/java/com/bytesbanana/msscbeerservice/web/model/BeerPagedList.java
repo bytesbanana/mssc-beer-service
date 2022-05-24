@@ -1,6 +1,5 @@
 package com.bytesbanana.msscbeerservice.web.model;
 
-import lombok.*;
 import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.Pageable;
 
